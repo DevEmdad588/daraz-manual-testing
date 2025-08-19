@@ -55,7 +55,7 @@ This repository contains professional test cases and bug reports of a well known
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
+  Emdad Hossain  
 
 🔗 LinkedIn  
 ✉️ Email  
