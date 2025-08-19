@@ -57,5 +57,12 @@ This repository contains professional test cases and bug reports of a well known
 ## 👨‍💻 Author
   Emdad Hossain  
 
-🔗 LinkedIn  
-✉️ Email  
+## 🌐 Connect with Me   
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdad-hossain-a9b851280/)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61550243672464)  
+
+</div>
+
