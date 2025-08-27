@@ -22,8 +22,8 @@ This repository contains professional test cases and bug reports of a well known
 
 | Tool/Library       | Purpose |
 |--------------------|---------|
-| Java/Selenium/etc. | Describe usage |
-| JUnit/TestNG/etc.  | Describe usage |
+| Google sheets | To document test cases |
+|   |  |
 | ...                | ... |
 
 ---
